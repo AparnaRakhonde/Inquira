@@ -1,6 +1,6 @@
 wikipedia
 numpy
 faiss-cpu
-transformers
-sentence_transformers
+transformers<5
+sentence-transformers
 streamlit
